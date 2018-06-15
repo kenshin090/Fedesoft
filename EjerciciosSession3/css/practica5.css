@@ -1,0 +1,71 @@
+body
+{
+    background-color: beige;
+}
+
+ul
+{
+    display: inline;
+ 
+}
+
+li{
+    float: left;
+    list-style-type: none;
+    margin: 3px;
+    padding: 3px;
+    color: white;
+    background-color: black;
+
+}
+
+.container .header #menu
+{
+    background-color: black;
+    height: 28px;
+}
+
+.container .header #leftText
+{
+    color: red;
+    float: right;
+    margin: 5px;
+}
+
+.container h1,h5
+{
+    
+    text-align: left;
+}
+
+
+
+.header
+{
+    background-color: bisque;
+    padding: 20px;
+}
+
+.main{
+
+    height: 200px;
+    background-color: beige;
+    position: relative;  
+    
+}
+
+.content
+{
+    position: absolute;
+    bottom: 30px;;
+    left: 4%;
+}
+
+img
+{
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin-left: 10px;
+    
+}

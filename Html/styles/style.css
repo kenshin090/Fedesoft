@@ -1,0 +1,115 @@
+body
+{
+    background-color: powderblue;
+}
+
+.container
+{
+    margin-top: 30px;
+}
+
+.header
+{
+    text-align: center;
+}
+
+.header img
+{
+    width: 300px;
+    height: 300px;
+}
+
+.main
+{
+    text-align: justify;
+}
+
+.main #menu ul
+{
+    display: inline;
+}
+
+.main #menu ul li
+{
+    float: left;
+    margin: 2px;
+    padding-right: 3px;
+    padding-left:  3px;
+    border-radius: 1px;
+    list-style-type: none;
+    background-color: beige;   
+}
+
+.main #menu ul li:hover
+{
+    
+    background-color: black;      
+}
+
+.main #menu ul li a
+{
+    text-decoration: none;
+}
+
+#personalInfo
+{
+    margin-top: 20px;
+    text-align: left;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+
+#workInfo
+{
+    margin-top: 20px;
+    text-align: left;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+
+#workInfo .workInfoContainer
+{
+    margin: 20px;  
+}
+
+#educationInfo
+{
+    margin-top: 20px;
+    text-align: left;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+
+#workInfo .workInfoContainer
+{
+    margin: 20px;  
+}
+
+#personalInfo .educationContainer
+{
+    
+    text-align: center;
+    margin-top: 50px;
+}
+
+#personalInfo .personalContainer .containerInfo
+{    
+    text-align: left;
+}
+
+#personalInfo .personalContainer .basicInfo h4
+{
+    display: block;    
+}
+
+#educationInfo
+{
+    margin-top: 20px;
+    text-align: left;
+}
+
+#workInfo
+{
+    margin-top: 20px;
+    text-align: left;
+}

@@ -1,0 +1,120 @@
+body
+{
+    margin: 20px;
+}
+
+header
+{
+    height: 20%;
+    width: 100%;
+}
+
+nav
+{
+    padding-left: 5px;
+    width: 100%;
+    height: 100px;
+}
+
+ul
+{
+    display: block;
+    position: relative
+    
+}
+
+ul li
+{
+    border: solid 1px black;
+    margin: 5px;
+    list-style-type: none;
+    float: left
+    
+}
+
+.container
+{
+    display: block;
+}
+
+.container section
+{
+    background-color: bisque;
+    margin:5px;
+    
+}
+
+.container section article
+{
+    margin: 15px;
+    width: 200px;
+    height: 200px;
+}
+
+[izquierdo]
+{
+    float:left;
+}
+
+#Primero
+{
+    background-color: dimgrey
+
+}
+
+#Centro
+{
+    background-color: lightslategrey
+
+}
+#Ultimo
+{
+    background-color: slategrey
+}
+
+.clear
+{
+    clear: both;
+    float: none;
+}
+
+#redes
+{
+    width: 50px;
+    height: 50px;
+    margin:5px;
+    border-radius: 50%;
+    background-image:url('../img/linkedli.png');
+    background-size: 300px 100px;
+}
+
+#image
+{
+    width: 50px;
+    height: 50px;
+    margin:5px;
+    border-radius: 50%;
+    background-image:url('../img/images2.jpg');
+    background-size: 300px 100px;
+
+}
+
+[derecho]
+{
+    float:right;
+}
+
+.titulo
+{
+    width: 40%;
+}
+
+footer
+{
+    margin-top: 10px;
+    position: relative;    
+    height: 10%;
+    background-color: grey;
+    text-align: center;
+}
+

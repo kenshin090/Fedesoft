@@ -1,0 +1,29 @@
+#uno{
+
+}
+
+#dos{
+    size: 5px;
+    width: 50%;
+}
+
+#tres{
+    size: 25px;
+    width: 50px;
+}
+
+#cuatro{
+    width: 75%;
+    height: 10px;
+    background-color: blue;
+    margin-left: 0pt;
+}
+
+#cinco{
+    border-width: 10px;
+    width: 60%;
+    height: 50px;
+    color: red;
+    background-color: green;
+    margin-right: 0pt;
+}
